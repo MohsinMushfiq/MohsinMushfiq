@@ -1,16 +1,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohsin Islam Mushfiq</h1>
-<h3 align="center">A passionate Software Engineer.</h3>
+<h3 align="center">Designer | Developer | Engineer.</h3>
 
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **Growth Empire**
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **Frontend Development**
 
-- 👯 I’m looking to collaborate on **MERN Applications**
-
-- 💬 Ask me about **Web Design, Development & Engineering**
+- 💬 Ask me about **Graphics & UI/UX Design, Web Design & Development, Technical Support**
 
 - ⚡ Fun fact **I am Single**
 
