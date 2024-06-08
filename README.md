@@ -1,4 +1,4 @@
-<img src="https://scontent.frjh1-1.fna.fbcdn.net/v/t39.30808-6/362635856_620274170214796_6844185878087673354_n.png?_nc_cat=107&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeEi9IyxlpXJvJ_YMRRIU-rWDv4OJKuFZJoO_g4kq4Vkmoch4hrOPHTAa3yDaNslYgqGib_WihDhOtKVeUZb2eUc&_nc_ohc=UeZDTuQvoPUAX8B-Tux&_nc_ht=scontent.frjh1-1.fna&oh=00_AfBkZ4b_HLv45m8vFJZJ7TQoPiAYK6wNSBT02WD86VC6Hg&oe=651A44A7" alt="Mohsin Islam Mushfiq Cover" width="100%" height="" align="center" display="block" margin="auto">
+
 
 <h1 align="center">Hi 👋, I'm Mohsin Islam Mushfiq</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
